@@ -82,5 +82,33 @@
   "image": "Covers/CeciliaOfficial.png",
   "pmx": "GirlsFrontline CeciliaSSR01.pmx",
   "base": "https://carlutic.github.io/girl_frontline_extra/"
+ },
+ {
+  "id": 81007,
+  "name": "CheetaSpecial",
+  "displayName": "奇塔 特殊版",
+  "weaponType": "",
+  "element": "GirlsFrontline",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/CheetaSpecial",
+  "image": "chars/CheetaSpecial/preview.png",
+  "pmx": "奇塔.pmx",
+  "base": "https://carlutic.github.io/girl_frontline_extra/"
+ },
+ {
+  "id": 81008,
+  "name": "CheetaSpecialMMM",
+  "displayName": "奇塔 特殊版（烘焙）",
+  "weaponType": "",
+  "element": "GirlsFrontline",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/CheetaSpecial",
+  "image": "chars/CheetaSpecial/preview.png",
+  "pmx": "奇塔MMM烘焙专用版.pmx",
+  "base": "https://carlutic.github.io/girl_frontline_extra/"
  }
 ]

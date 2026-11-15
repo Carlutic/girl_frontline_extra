@@ -93,7 +93,7 @@
   "region": "",
   "rarity": 5,
   "directory": "chars/CheetaSpecial",
-  "image": "chars/CheetaSpecial/preview.png",
+  "image": "Covers/CheetaSpecial.png",
   "pmx": "奇塔.pmx",
   "base": "https://carlutic.github.io/girl_frontline_extra/"
  },
@@ -107,7 +107,7 @@
   "region": "",
   "rarity": 5,
   "directory": "chars/CheetaSpecial",
-  "image": "chars/CheetaSpecial/preview.png",
+  "image": "Covers/CheetaSpecialMMM.png",
   "pmx": "奇塔MMM烘焙专用版.pmx",
   "base": "https://carlutic.github.io/girl_frontline_extra/"
  }
